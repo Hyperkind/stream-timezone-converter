@@ -1,2 +1,6 @@
 body {
-  background-color: cornflowerBlue; }
+  background-color: cornflowerBlue;
+  text-align: center; }
+  body p {
+    font-size: 3rem;
+    font-weight: 700; }
